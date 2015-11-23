@@ -1,0 +1,172 @@
+>CFTR_promotor_F	CFTR:117119062-117119084:1
+tgcttggcttcctttcggtggat
+>CFTR_promotor_R	CFTR:117119403-117119425:1
+cggcagtgtgggtctgatgcatt
+>CFTR_utr5_1_F	CFTR:117119232-117119254:1
+tgggccggtaattacgcaaagca
+>CFTR_utr5_1_R	CFTR:117119609-117119631:1
+CTTCCTAGACCCTCCTTCGCGTC
+>CFTR_utr5_2_F	CFTR:117119426-117119449:1
+cggaacttttcggctctctaaggc
+>CFTR_utr5_2_R	CFTR:117119800-117119822:1
+cgcacctccctttcccgattctg
+>CFTR_rs139688774_F	CFTR:117119694-117119716:1
+cctaaagagaggccgcgactgtc
+>CFTR_rs139688774_R	CFTR:117120065-117120087:1
+acctactactctgggtgcctgcc
+>CFTR_exon_1_F	CFTR:117119887-117119909:1
+gtgggtggagaaagccgctagag
+>CFTR_exon_1_R	CFTR:117120249-117120271:1
+caacccatacacacgccctcctc
+>CFTR_exon_2n1_F	CFTR:117144095-117144119:1
+gtgacagtcacattagttcagagat
+>CFTR_exon_2n1_R	CFTR:117144474-117144501:1
+acttataatatgtttgctttctcttctc
+>CFTR_exon_3_F	CFTR:117149029-117149054:1
+aggacaactaaaatatttgcacatgc
+>CFTR_exon_3_R	CFTR:117149379-117149401:1
+aaattgccacccgtgttccagga
+>CFTR_exon_4_F	CFTR:117170876-117170900:1
+agtcttgtgttgaaattctcagggt
+>CFTR_exon_4_R	CFTR:117171242-117171264:1
+tcccttacttgtaccagctcact
+>CFTR_exon_5_F	CFTR:117174096-117174118:1
+tctgcctagatgctgggaaataa
+>CFTR_exon_5_R	CFTR:117174473-117174495:1
+cccaggaaaactccgcctttcca
+>CFTR_exon_6n_F	CFTR:117175170-117175192:1
+ttagtgtgctcagaaccacgaag
+>CFTR_exon_6n_R	CFTR:117175548-117175574:1
+tgacactgaagatcactgttctatgca
+>CFTR_exon_7_F	CFTR:117176788-117176811:-1
+ggtggaagtctaccatgataaaca
+>CFTR_exon_7_R	CFTR:117176414-117176436:-1
+gcgtctggcacataggaggcatt
+>CFTR_exon_8_F	CFTR:117180444-117180467:-1
+cattagaactgatctattgactga
+>CFTR_exon_8_R	CFTR:117180068-117180091:-1
+accatgctcagatcttccattcca
+>CFTR_exon_9_F	CFTR:117181977-117181999:1
+aagatgtagcacaatgagagtat
+>CFTR_exon_9_R	CFTR:117182322-117182344:1
+acaaccatgagcacctggccatt
+>CFTR_exon_10_F	CFTR:117188572-117188594:1
+tggatcatgggccatgtgctttt
+>CFTR_exon_10_R	CFTR:117188947-117188970:1
+tctccaaaaataccttccagcact
+>CFTR_exon_11n_F	CFTR:117199428-117199455:1
+tatacacttctgcttaggatgataattg
+>CFTR_exon_11n_R	CFTR:117199793-117199820:1
+ggaaacataaatatatgtagactaaccg
+>CFTR_processed_transcript_3_F	CFTR:117204633-117204655:1
+gccccgatcaccaaatgcaaaca
+>CFTR_processed_transcript_3_R	CFTR:117205009-117205032:1
+acctgacttctcactcatggctgt
+>CFTR_exon_12n_F	CFTR:117227727-117227752:1
+tgtgcctttcaaattcagattgagca
+>CFTR_exon_12n_R	CFTR:117228108-117228133:1
+aggcaaacaaatacactgacaccaag
+>CFTR_intron_target_17bn_F	CFTR:117229276-117229300:1
+acagagtgtggggaagaaactgtgt
+>CFTR_intron_target_17bn_R	CFTR:117229640-117229666:1
+tgaaaccataagcaagtaaaatctaca
+>CFTR_exon_13_F	CFTR:117230316-117230340:1
+tgcatgtagtgaactgtttaaggca
+>CFTR_exon_13_R	CFTR:117230684-117230706:1
+agcatgaggcggtgagaaaaggt
+>CFTR_exon_14_3a_F	CFTR:117231911-117231933:1
+acaaaatgctaaaatacgagaca
+>CFTR_exon_14_3a_R	CFTR:117232238-117232260:1
+GTCCAGGAGACAGGAGCATCTCC
+>CFTR_exon_14_3b_F	CFTR:117232152-117232176:1
+TCATGGGATGTGATTCTTTCGACCA
+>CFTR_exon_14_3b_R	CFTR:117232510-117232532:1
+TCAGGACAGACTGCCTCCTTCGT
+>CFTR_exon_14_3c_F	CFTR:117232738-117232761:-1
+actcaattgcattctgtggggtga
+>CFTR_exon_14_3c_R	CFTR:117232410-117232433:-1
+AGCCTTTAGAGAGAAGGCTGTCCT
+>CFTR_exon_15_F	CFTR:117234787-117234809:1
+aagctgtgttgctccagtagaca
+>CFTR_exon_15_R	CFTR:117235159-117235181:1
+tgtatacatccccaaactatctt
+>CFTR_exon_16_F	CFTR:117242814-117242836:1
+tgtgggcatgggaggaataggtg
+>CFTR_exon_16_R	CFTR:117243176-117243198:1
+ggagtgcggtggctactcacaat
+>CFTR_exon_17_F	CFTR:117243536-117243558:1
+tcagtaagtaactttggctgcca
+>CFTR_exon_17_R	CFTR:117243872-117243894:1
+accacaggccctattgatggtgg
+>CFTR_exon_18n_F	CFTR:117246609-117246635:1
+gctaattcttatttgggttctgaatgc
+>CFTR_exon_18n_R	CFTR:117246993-117247015:1
+caggtttgggccaggtaagcagt
+>CFTR_exon_19n_F	CFTR:117250507-117250531:1
+acacactttgtccactttgcaatgt
+>CFTR_exon_19n_R	CFTR:117250855-117250881:1
+agtttccttttatatacacatgcatgt
+>CFTR_exon_20_2a1_F	CFTR:117251413-117251436:1
+agttcccatctctggtagccaagt
+>CFTR_exon_20_2a1_R	CFTR:117251755-117251779:1
+GTTGACAGGTACAAGAACCAGTTGG
+>CFTR_exon_20_2b1_F	CFTR:117252038-117252061:-1
+tccgatttcaaggaaattatttgt
+>CFTR_exon_20_2b1_R	CFTR:117251700-117251722:-1
+GGACGGCAGCCTTACTTTGAAAC
+>CFTR_exon_21_F	CFTR:117254606-117254628:1
+aagtcgttcacagaagagagaaa
+>CFTR_exon_21_R	CFTR:117254974-117254996:1
+acaggtgaaagaatgctcactgc
+>CFTR_exon_22_2a_F	CFTR:117267447-117267470:1
+agcccgacaaataaccaagtgaca
+>CFTR_exon_22_2a_R	CFTR:117267810-117267832:1
+AATCTCACCCTCTGGCCAGGACT
+>CFTR_exon_22_2b_F	CFTR:117268068-117268093:-1
+tggcttctttagttattaacctagca
+>CFTR_exon_22_2b_R	CFTR:117267721-117267743:-1
+CCTCAGGGGGCCAAATGACTGTC
+>CFTR_intron_target_27b_F	CFTR:117279805-117279827:1
+agtagttgaatcattcagtgggt
+>CFTR_intron_target_27b_R	CFTR:117280135-117280157:1
+acttcaatgcacctcctccctga
+>CFTR_exon_23_F	CFTR:117282697-117282720:-1
+tgagtacaagtatcaaatagcagt
+>CFTR_exon_23_R	CFTR:117282324-117282348:-1
+tggtcaggattgaaagtgtgcaaca
+>CFTR_exon_24_F	CFTR:117293111-117293135:-1
+cctgttgctccaggtatgttagggt
+>CFTR_exon_24_R	CFTR:117292760-117292783:-1
+acttgatggtaagtacatgggtgt
+>CFTR_exon_25_F	CFTR:117304966-117304988:-1
+atgtgtcaccatgaagcaggcat
+>CFTR_exon_25_R	CFTR:117304612-117304634:-1
+gcaggtagtgggggtagagggat
+>CFTR_exon_26_F	CFTR:117305675-117305697:-1
+tgcaggaactatcacatgtgaga
+>CFTR_exon_26_R	CFTR:117305343-117305368:-1
+ccccatggttgaaaagctgattgtgg
+>CFTR_exon_27_6a_F	CFTR:117306889-117306911:1
+tgtgccagtttctgtccctgctc
+>CFTR_exon_27_6a_R	CFTR:117307242-117307264:1
+AGGCAGAGGTAACTGTTCCACGA
+>CFTR_exon_27_6b_F	CFTR:117307585-117307607:-1
+ACCGCTGAAGTTTCCAGTTATCA
+>CFTR_exon_27_6b_R	CFTR:117307211-117307233:-1
+TCGTGGGACAGTCACCTCATGGA
+>CFTR_exon_27_6c_F	CFTR:117307518-117307541:1
+GAAACTCGTTAATTTGTAGTGTTG
+>CFTR_exon_27_6c_R	CFTR:117307895-117307917:1
+ACCATCCTGTCCCCTGTGAAAGA
+>CFTR_exon_27_6d1_F	CFTR:117308142-117308164:-1
+ACATCTAGCCTGAAAACATACCA
+>CFTR_exon_27_6d1_R	CFTR:117307792-117307814:-1
+TCCAGATCCTGGAAATCAGGGTT
+>CFTR_exon_27_6e1_F	CFTR:117308082-117308104:1
+CCATGGGCACTGTGGGTAGACAC
+>CFTR_exon_27_6e1_R	CFTR:117308432-117308453:1
+TAGGTTCTCCCCTGTCCCAGTT
+>CFTR_exon_27_6f_F	CFTR:117308381-117308405:1
+TGAAATATTGACTTTTTATGGCACT
+>CFTR_exon_27_6f_R	CFTR:117308751-117308773:1
+tggagtgagagactgatgaaaca
