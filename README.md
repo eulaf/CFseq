@@ -13,7 +13,7 @@ All software are freely available for non-commercial use.
 
 - ANNOVAR:
     * http://www.openbioinformatics.org/annovar/
-	* release 150322
+	* release 141112
 
 - BWA:
     * http://bio-bwa.sourceforge.net
