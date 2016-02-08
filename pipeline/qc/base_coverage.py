@@ -23,8 +23,8 @@ import cftr
 THRESHOLDS = (100, 200, 500, 1000)
 
 def parse_roi(state=False):
-    bedfile = cftr.REFFILES['analysis_roi_bed'] if state else \
-              cftr.REFFILES['covered_roi_bed']
+    bedfile = cftr.RESOURCE['analysis_roi_bed'] if state else \
+              cftr.RESOURCE['covered_roi_bed']
     bed = cftr.parse_bedfile(bedfile)
     regions = []
     for chrom in bed.keys():

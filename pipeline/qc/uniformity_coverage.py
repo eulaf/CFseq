@@ -26,7 +26,7 @@ from common.misc import open_file, have_file
 import cftr
 
 def parse_roi():
-    bed = cftr.parse_bedfile(cftr.REFFILES['amplicon_bed'])
+    bed = cftr.parse_bedfile(cftr.RESOURCE['amplicon_bed'])
     regions = []
     for chrom in bed.keys():
         for start in sorted(bed[chrom].keys()):

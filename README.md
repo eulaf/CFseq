@@ -39,6 +39,10 @@ All software are freely available for non-commercial use.
     * http://www.phrap.org/phredphrapconsed.html
 	* release 990329
 
+- pysam:
+    * https://pypi.python.org/pypi/pysam
+    * version 0.8.4
+
 ## Setup
 
 ### bin:
